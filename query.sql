@@ -18,5 +18,3 @@ bitrix_user_token VARCHAR(255),
 bitrix_service_hash VARCHAR(255),
 PRIMARY KEY(id)
 );
-
-INSERT INTO work_time (user_id, group_id, task_id, time_start, t_time) VALUES (111, 125, 99, 1499696277821, 'START');
